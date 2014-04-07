@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Valibus_Overcss>
+            <version>1.0</version>
+        </Valibus_Overcss>
+    </modules>
+    <frontend>
+        <layout>
+            <updates>
+                <valibus_overcss>
+                    <file>valibus/overcss.xml</file>
+                </valibus_overcss>
+            </updates>
+        </layout>
+    </frontend>
+</config>
